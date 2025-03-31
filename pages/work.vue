@@ -21,7 +21,7 @@ const jobs = ref([
     duration: '6 часов',
     town: 'Пермь, ул. петропавловская д 21',
     description: '',
-    salaryRange: '500'
+    salaryRange: '600'
   }
 ])
 </script>
