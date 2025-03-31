@@ -4,7 +4,7 @@ let drawer = ref(false)
 
 <template>
   <v-app>
-    <v-app-bar color="white" elevation="1">
+    <v-app-bar color="white" elevation="0">
       <v-container class="px-4">
         <div class="d-flex align-center justify-space-between w-100">
           <NuxtLink to="/" class="text-2xl font-bold text-indigo-600 text-decoration-none">
