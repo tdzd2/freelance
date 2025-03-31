@@ -15,6 +15,7 @@ onUnmounted(() => {
   })
 })
 
+//???
 const advantages = computed(() => {
   if (currentRole.value === 'worker') {
     return [
